@@ -1,0 +1,3 @@
+ls-list filels
+ppwd-show current directory
+cd-change directory
